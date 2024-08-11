@@ -13,4 +13,4 @@ La presente página es conforme a la realización de la página solicitada en el
 
 La misma fue realizada en base a las prácticas realizadas en clase y sincronizada a Azure para la creación de Web Estática y así poder ponerla en producción.
 
-En esta ocasión no pudimos configurarle el "Plus" de configurarle dominio ya que no lo hemos podido configurar debidamente y sicronizarlo a detalle. 
+En esta ocasión no pudimos configurarle el "Plus" de configurarle dominio ya que no lo hemos podido configurar debidamente y sincronizarlo a detalle. 
