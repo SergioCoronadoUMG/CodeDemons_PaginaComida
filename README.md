@@ -1,10 +1,10 @@
 # CodeDemons_PaginaComida
-Analisis de sistemas 
+#Analisis de sistemas 
 
-Integrantes del Grupo #4 CodeDemons
+### Integrantes del Grupo #4 CodeDemons
 
-0902-10-15890 Sergio Antonio Coronado Delgado (github:SergioCoronadoUMG) /
-0902-20-5155 Cristhofer Johan Teni Ligorria (github:JESHUAFER) /
+#### 0902-10-15890 Sergio Antonio Coronado Delgado (github:SergioCoronadoUMG).
+#### 0902-20-5155 Cristhofer Johan Teni Ligorria (github:JESHUAFER).
 0902-20-22661 B'ayl David Catún (github:DavidCktn) /
 0902-21-13401 Kevin Rolando Alfonso Macz Mata (github:KRAMM1103) /
 0902-21-16412 Josue Melquisedec Isem Reyes (github:Soju3Isem) /
